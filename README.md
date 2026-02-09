@@ -21,6 +21,6 @@ The program reads previous winning numbers from a text file and generates weight
 
 Clone the repository:
 ```bash
-git clone https://github.com/MikeFrett/powerball-generator.git
+git clone https://github.com/MikeFrett/Powerball-Number-Generator.git
 cd powerball-generator
 python3 powerball_gui.py
